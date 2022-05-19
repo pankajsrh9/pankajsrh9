@@ -3,11 +3,11 @@
 Here to learn lot many things about data.
 
 Things I'm good at 🔥
-
 * Domain: Machine Learning, Deep Learning,Natural Language Processing, Data Visualization, and Data Warehousing.
 * Languages: Python, SQL.
 * Framework: Flask, Steamlit.
 * Libraries & Tools: NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, PyTorch, Keras, NLTK, Google Cloud Platform.
+
 
 Projects: 
 * [Skin Cancer Detection](https://github.com/pankajsrh9/Image_Classification_using_Pytorch)
@@ -15,6 +15,5 @@ Projects:
 
 
 Find me around:
-
 [Linkedin](https://www.linkedin.com/in/pankaj-s95/)
 
