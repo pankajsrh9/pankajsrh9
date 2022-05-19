@@ -12,6 +12,7 @@ Things I'm good at 🔥
 Projects: 
 * [Skin Cancer Detection](https://github.com/pankajsrh9/Image_Classification_using_Pytorch)
 * [Spam Classification](https://github.com/pankajsrh9/Spam_Classification)
+* [Cardio Vascular Disease Detection](https://github.com/pankajsrh9/Cardio_vascular_disease)
 
 
 Find me around:
